@@ -1,0 +1,66 @@
+🚀 Huawei Cloud Compute Services Practice
+Welcome to the Huawei Cloud Compute Services Practice repository — a curated collection of hands-on exercises, real-world use cases, and technical deep dives designed to enhance your knowledge and skills in Huawei Cloud’s compute ecosystem.
+
+🔍 Why This Matters
+As cloud computing becomes the backbone of modern IT infrastructure, understanding how to efficiently manage compute services is essential. Huawei Cloud offers a comprehensive suite of compute solutions, from virtual machines to container services, that empower developers and organizations to deploy scalable, secure, and high-performance applications.
+
+This repository aims to provide a practical learning path for:
+
+🎯 Cloud Engineers exploring Huawei's compute platform
+
+👨‍💻 Developers building scalable cloud-native applications
+
+🧪 Students & Learners looking for real-world project exposure
+
+🧰 What You'll Find Here
+✅ Virtual Machine Labs (Elastic Cloud Server - ECS)
+Step-by-step guides to creating and managing ECS instances
+
+Setting up networking, security groups, and images
+
+Performance benchmarking and optimization tips
+
+✅ Auto Scaling Scenarios
+Configuring Huawei Auto Scaling policies for high availability
+
+CPU-based, scheduled, and custom metric scaling
+
+Load balancing integration
+
+✅ Containerized Compute (CCE - Cloud Container Engine)
+Kubernetes basics using Huawei CCE
+
+Deploying containerized applications and microservices
+
+CI/CD pipeline integration with cloud-native apps
+
+✅ Serverless Functions (FunctionGraph)
+Building event-driven architectures
+
+Real-world use cases: automation, webhooks, data processing
+
+📘 Learning Outcomes
+By working through this repository, you will:
+
+Understand core Huawei Cloud compute services
+
+Deploy and manage scalable infrastructure
+
+Gain real project experience with automation and orchestration
+
+Be better prepared for Huawei Cloud certifications or DevOps roles
+
+📌 Getting Started
+Clone the repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/huawei-cloud-compute-practice.git
+Follow the lab instructions in each folder.
+
+Use the provided templates and scripts for quick deployment.
+
+🙌 Contributions Welcome
+If you’ve built something cool on Huawei Cloud Compute, feel free to contribute! Whether it’s a script, a tutorial, or a bug fix — let’s grow this learning hub together.
+
